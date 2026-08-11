@@ -293,32 +293,6 @@ I'm continuously strengthening my skills in:
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aravindhdit&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindhdit&hide_border=true" />
-
-<br><br>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindhdit&layout=compact&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Profile
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aravindhdit&theme=flat&no-frame=true&margin-w=8&row=1" />
-
-</div>
-
----
-
 # 📫 Let's Connect
 
 I'm currently open to **entry-level opportunities, internships, and fresher roles** where I can apply my technical knowledge while continuing to learn and grow.
