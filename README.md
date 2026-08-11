@@ -29,6 +29,23 @@ Rather than limiting myself to only theoretical learning, I focus on developing 
 
 🎯 Currently looking for **entry-level opportunities** where I can learn, contribute, and grow as an IT professional.
 
+## 🪟 A Little More About Me
+
+> **"Windows was my first window to the digital world — from XP to today, it still feels like home."**
+
+My journey with computers started with **Windows XP**, and since then, Windows has always been the operating system I enjoy exploring the most.
+
+From installing operating systems and troubleshooting boot issues to working with networking, virtualization, software configuration, and system administration, my interest in Windows has played a big part in building my passion for IT.
+
+<div align="center">
+
+**Windows XP → Windows 7 → Windows 10 → Windows 11 ❤️**
+
+`Explore • Troubleshoot • Learn • Repeat`
+
+</div>
+
+
 ---
 
 ## 🚀 What I Work With
